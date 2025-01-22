@@ -21,10 +21,6 @@ My name is Ebrahem Hassan, and I'm a Mechatronics Engineer with a strong passion
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 <h2 align="left">I Code With</h2>
 
 <div align="left">
@@ -69,7 +65,8 @@ My name is Ebrahem Hassan, and I'm a Mechatronics Engineer with a strong passion
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" alt="Git logo" />
 </div>
 
-
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahemHassan132&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
